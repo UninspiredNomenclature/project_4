@@ -6,9 +6,9 @@ This code was written by Rebekkah Alexander with the help of ChatGPT and class n
 
 
 
-Residual Sugar and Alcohol Analysis
+Residual Sugar and Alcohol Analysis - Danita Charles
 
-
+This analysis uses a Clustering Algorithm to analyze if the physicochemical properties of residual sugar and alcohol level contribute to specific quality scores of red wines. The code uses K-means for the initial analysis, then optimization using Principal Component Analysis (PCA). 
 
 Sulfur Analysis
 
