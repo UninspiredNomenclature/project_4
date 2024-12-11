@@ -12,6 +12,9 @@ This analysis uses a Clustering Algorithm to analyze if the physicochemical prop
 
 Sulfur Analysis
 
+The Free and Total Sulfur Dioxide code was to analyze and predict what levels should be considered when choosing a red wine. Logistic Regression, Decision Tree, and Random Forest were used to this end. Ultimatly Random Forest was the most useful in making a respectable conclusion as to what those levels should be.
+
+This code was written by myself, Bryan Thomas, my work Ai Maharal, with charting help from my teammate Rebekkah.
 
 
 Density, Ph Analysis
