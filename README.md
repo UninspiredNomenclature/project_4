@@ -18,7 +18,9 @@ This code was written by myself, Bryan Thomas, my work Ai Maharal, with charting
 
 
 Density, Ph Analysis
+Density and pH of high quality wines were also analyzed using logistic regression, decision tree, and random forest models, balanced with SMOTE to accommodate a limited high quality wine volume within the dataset. Ultimately, there was insufficient data to use density and pH as predictors of high quality wine.
 
+This code was developed by Aaron Wood with class notes and ChatGPT.
 
 
 Sulphates, Chlorides Analysis
