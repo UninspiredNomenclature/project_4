@@ -25,7 +25,7 @@ This code was developed by Aaron Wood with class notes and ChatGPT.
 
 Sulphates, Chlorides Analysis
 
-
+This section developed by Barry Maldonado
 
 
 Group project repository created. README added.
